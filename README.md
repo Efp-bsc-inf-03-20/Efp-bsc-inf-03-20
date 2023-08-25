@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fimage%2F358332&psig=AOvVaw0wngJyXYyeSHsC6SdLRqre&ust=1693076883019000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCLsoTB-IADFQAAAAAdAAAAABAE" alt="crossbypatson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fimage%2F358332&psig=AOvVaw0wngJyXYyeSHsC6SdLRqre&ust=1693076883019000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCLsoTB-IADFQAAAAAdAAAAABAE" height="50" width="50" alt="logo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="github.png" height="50" width="50" alt="logo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/damascusgenah" target="blank"><img src="https://img.shields.io/twitter/follow/damascusgenah?logo=twitter&style=for-the-badge" alt="damascusgenah" /></a> </p>
 
