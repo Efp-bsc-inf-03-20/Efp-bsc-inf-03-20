@@ -28,7 +28,7 @@
 
 > MORE
 
-[![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg?style=for-the-badge)](https://github.com/joshbuchea/HEAD/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg?style=for-the-badge)](https://github.com/crossbypatson/HEAD/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Follow @joshbuchea on Mastodon](https://img.shields.io/badge/Follow_@DamascusGenah-purple?logo=mastodon&logoColor=white&style=for-the-badge)](https://hachyderm.io/@DamascusGenah)
+[![Follow @DamascusGenah on Mastodon](https://img.shields.io/badge/Follow_@DamascusGenah-purple?logo=mastodon&logoColor=white&style=for-the-badge)](https://hachyderm.io/@DamascusGenah)
 
