@@ -1,5 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://1.bp.blogspot.com/-7A4WynwLsM...)
 
+# 🤯 HEAD
+
+> A simple guide to HTML `<head>` elements
+
+[![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg?style=for-the-badge)](https://github.com/joshbuchea/HEAD/graphs/contributors)
+[![CC0](https://img.shields.io/badge/license-CC0-green.svg?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Follow @joshbuchea on Mastodon](https://img.shields.io/badge/Follow_@joshbuchea-purple?logo=mastodon&logoColor=white&style=for-the-badge)](https://hachyderm.io/@joshbuchea)
 
 <h1 align="center">Hi 👋, I'm Crossby patson</h1>
 <h3 align="center">A passionate FullStack developer from Malawi</h3>
