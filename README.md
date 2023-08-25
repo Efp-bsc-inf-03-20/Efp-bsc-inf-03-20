@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-mudigonda&psig=AOvVaw0HUS6XvBw1tQko5SF8MYKZ&ust=1693056686653000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCMyO7194ADFQAAAAAdAAAAABAf)
+
 
 <h1 align="center">Hi 👋, I'm Crossby patson</h1>
 <h3 align="center">A passionate FullStack developer from Malawi</h3>
