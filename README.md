@@ -1,7 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://1.bp.blogspot.com/-7A4WynwLsM...)
-
-
-
+![Example 1](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
 
 <h1 align="center">Hi 👋, I'm Crossby patson</h1>
 <h3 align="center">A passionate FullStack developer from Malawi</h3>
