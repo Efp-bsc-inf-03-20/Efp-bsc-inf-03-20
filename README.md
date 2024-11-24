@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/damascusgenah" target="blank"><img src="https://img.shields.io/twitter/follow/damascusgenah?logo=twitter&style=for-the-badge" alt="damascusgenah" /></a> </p>
 
-- 🌱 I’m currently learning **React,Python,Linux,Datascience,AI**
+- 🌱 I’m currently learning **React,Python,Linux,Datascience,AL,Flutter,ML,QGis**
 
-- 💬 Ask me about **nest,java,HTML,Javascript**
+- 💬 Ask me about **nest,java,HTML,Javascript,Flutter,Linux,Green computing**
 
 - 📫 How to reach me **patsondamascus@gmail.com**
 
